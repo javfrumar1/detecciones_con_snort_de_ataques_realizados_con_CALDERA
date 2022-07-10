@@ -1,0 +1,330 @@
+06/14-21:39:45.006676 [**] [1:54827:1] "MALWARE-TOOLS dnscat dns tunneling detected" [**] [Classification: A Network Trojan was detected] [Priority: 1] {UDP} 192.168.1.3:57107 -> 192.168.2.2:53
+192.168.1.3:57107 -> 192.168.2.2:53
+UDP TTL:64 TOS:0x0 ID:27653 IpLen:20 DgmLen:103 DF
+Len: 75
+
+06/14-21:39:45.011056 [**] [1:54827:1] "MALWARE-TOOLS dnscat dns tunneling detected" [**] [Classification: A Network Trojan was detected] [Priority: 1] {UDP} 192.168.1.3:57107 -> 192.168.2.2:53
+192.168.1.3:57107 -> 192.168.2.2:53
+UDP TTL:64 TOS:0x0 ID:27654 IpLen:20 DgmLen:71 DF
+Len: 43
+
+06/14-21:39:45.073746 [**] [1:54827:1] "MALWARE-TOOLS dnscat dns tunneling detected" [**] [Classification: A Network Trojan was detected] [Priority: 1] {UDP} 192.168.1.3:57107 -> 192.168.2.2:53
+192.168.1.3:57107 -> 192.168.2.2:53
+UDP TTL:64 TOS:0x0 ID:27655 IpLen:20 DgmLen:93 DF
+Len: 65
+
+06/14-21:39:45.075945 [**] [1:54827:1] "MALWARE-TOOLS dnscat dns tunneling detected" [**] [Classification: A Network Trojan was detected] [Priority: 1] {UDP} 192.168.1.3:57107 -> 192.168.2.2:53
+192.168.1.3:57107 -> 192.168.2.2:53
+UDP TTL:64 TOS:0x0 ID:27656 IpLen:20 DgmLen:91 DF
+Len: 63
+
+06/14-21:39:45.077412 [**] [1:54827:1] "MALWARE-TOOLS dnscat dns tunneling detected" [**] [Classification: A Network Trojan was detected] [Priority: 1] {UDP} 192.168.1.3:57107 -> 192.168.2.2:53
+192.168.1.3:57107 -> 192.168.2.2:53
+UDP TTL:64 TOS:0x0 ID:27657 IpLen:20 DgmLen:71 DF
+Len: 43
+
+06/14-21:39:45.129336 [**] [1:54827:1] "MALWARE-TOOLS dnscat dns tunneling detected" [**] [Classification: A Network Trojan was detected] [Priority: 1] {UDP} 192.168.1.3:57107 -> 192.168.2.2:53
+192.168.1.3:57107 -> 192.168.2.2:53
+UDP TTL:64 TOS:0x0 ID:27668 IpLen:20 DgmLen:71 DF
+Len: 43
+
+06/14-21:39:45.187895 [**] [1:54827:1] "MALWARE-TOOLS dnscat dns tunneling detected" [**] [Classification: A Network Trojan was detected] [Priority: 1] {UDP} 192.168.1.3:57107 -> 192.168.2.2:53
+192.168.1.3:57107 -> 192.168.2.2:53
+UDP TTL:64 TOS:0x0 ID:27674 IpLen:20 DgmLen:120 DF
+Len: 92
+
+06/14-21:39:45.254325 [**] [1:54827:1] "MALWARE-TOOLS dnscat dns tunneling detected" [**] [Classification: A Network Trojan was detected] [Priority: 1] {UDP} 192.168.1.3:57107 -> 192.168.2.2:53
+192.168.1.3:57107 -> 192.168.2.2:53
+UDP TTL:64 TOS:0x0 ID:27680 IpLen:20 DgmLen:71 DF
+Len: 43
+
+06/14-21:39:46.155982 [**] [1:54827:1] "MALWARE-TOOLS dnscat dns tunneling detected" [**] [Classification: A Network Trojan was detected] [Priority: 1] {UDP} 192.168.1.3:57107 -> 192.168.2.2:53
+192.168.1.3:57107 -> 192.168.2.2:53
+UDP TTL:64 TOS:0x0 ID:27737 IpLen:20 DgmLen:71 DF
+Len: 43
+
+06/14-21:39:46.333195 [**] [1:54827:1] "MALWARE-TOOLS dnscat dns tunneling detected" [**] [Classification: A Network Trojan was detected] [Priority: 1] {UDP} 192.168.1.3:57107 -> 192.168.2.2:53
+192.168.1.3:57107 -> 192.168.2.2:53
+UDP TTL:64 TOS:0x0 ID:27781 IpLen:20 DgmLen:71 DF
+Len: 43
+
+06/14-21:39:47.232180 [**] [1:54827:1] "MALWARE-TOOLS dnscat dns tunneling detected" [**] [Classification: A Network Trojan was detected] [Priority: 1] {UDP} 192.168.1.3:57107 -> 192.168.2.2:53
+192.168.1.3:57107 -> 192.168.2.2:53
+UDP TTL:64 TOS:0x0 ID:27999 IpLen:20 DgmLen:71 DF
+Len: 43
+
+06/14-21:39:47.387686 [**] [1:54827:1] "MALWARE-TOOLS dnscat dns tunneling detected" [**] [Classification: A Network Trojan was detected] [Priority: 1] {UDP} 192.168.1.3:57107 -> 192.168.2.2:53
+192.168.1.3:57107 -> 192.168.2.2:53
+UDP TTL:64 TOS:0x0 ID:28005 IpLen:20 DgmLen:71 DF
+Len: 43
+
+06/14-21:39:48.313057 [**] [1:54827:1] "MALWARE-TOOLS dnscat dns tunneling detected" [**] [Classification: A Network Trojan was detected] [Priority: 1] {UDP} 192.168.1.3:57107 -> 192.168.2.2:53
+192.168.1.3:57107 -> 192.168.2.2:53
+UDP TTL:64 TOS:0x0 ID:28211 IpLen:20 DgmLen:71 DF
+Len: 43
+
+06/14-21:39:48.469558 [**] [1:54827:1] "MALWARE-TOOLS dnscat dns tunneling detected" [**] [Classification: A Network Trojan was detected] [Priority: 1] {UDP} 192.168.1.3:57107 -> 192.168.2.2:53
+192.168.1.3:57107 -> 192.168.2.2:53
+UDP TTL:64 TOS:0x0 ID:28245 IpLen:20 DgmLen:71 DF
+Len: 43
+
+06/14-21:39:49.408454 [**] [1:54827:1] "MALWARE-TOOLS dnscat dns tunneling detected" [**] [Classification: A Network Trojan was detected] [Priority: 1] {UDP} 192.168.1.3:57107 -> 192.168.2.2:53
+192.168.1.3:57107 -> 192.168.2.2:53
+UDP TTL:64 TOS:0x0 ID:28361 IpLen:20 DgmLen:71 DF
+Len: 43
+
+06/14-21:39:49.562307 [**] [1:54827:1] "MALWARE-TOOLS dnscat dns tunneling detected" [**] [Classification: A Network Trojan was detected] [Priority: 1] {UDP} 192.168.1.3:57107 -> 192.168.2.2:53
+192.168.1.3:57107 -> 192.168.2.2:53
+UDP TTL:64 TOS:0x0 ID:28387 IpLen:20 DgmLen:71 DF
+Len: 43
+
+06/14-21:39:50.472187 [**] [1:54827:1] "MALWARE-TOOLS dnscat dns tunneling detected" [**] [Classification: A Network Trojan was detected] [Priority: 1] {UDP} 192.168.1.3:57107 -> 192.168.2.2:53
+192.168.1.3:57107 -> 192.168.2.2:53
+UDP TTL:64 TOS:0x0 ID:28458 IpLen:20 DgmLen:71 DF
+Len: 43
+
+06/14-21:39:50.653059 [**] [1:54827:1] "MALWARE-TOOLS dnscat dns tunneling detected" [**] [Classification: A Network Trojan was detected] [Priority: 1] {UDP} 192.168.1.3:57107 -> 192.168.2.2:53
+192.168.1.3:57107 -> 192.168.2.2:53
+UDP TTL:64 TOS:0x0 ID:28497 IpLen:20 DgmLen:71 DF
+Len: 43
+
+06/14-21:39:50.771182 [**] [1:54827:1] "MALWARE-TOOLS dnscat dns tunneling detected" [**] [Classification: A Network Trojan was detected] [Priority: 1] {UDP} 192.168.1.3:57107 -> 192.168.2.2:53
+192.168.1.3:57107 -> 192.168.2.2:53
+UDP TTL:64 TOS:0x0 ID:28501 IpLen:20 DgmLen:276 DF
+Len: 248
+
+06/14-21:39:50.825325 [**] [1:54827:1] "MALWARE-TOOLS dnscat dns tunneling detected" [**] [Classification: A Network Trojan was detected] [Priority: 1] {UDP} 192.168.1.3:57107 -> 192.168.2.2:53
+192.168.1.3:57107 -> 192.168.2.2:53
+UDP TTL:64 TOS:0x0 ID:28506 IpLen:20 DgmLen:71 DF
+Len: 43
+
+06/14-21:39:51.507973 [**] [1:54827:1] "MALWARE-TOOLS dnscat dns tunneling detected" [**] [Classification: A Network Trojan was detected] [Priority: 1] {UDP} 192.168.1.3:57107 -> 192.168.2.2:53
+192.168.1.3:57107 -> 192.168.2.2:53
+UDP TTL:64 TOS:0x0 ID:28655 IpLen:20 DgmLen:71 DF
+Len: 43
+
+06/14-21:39:51.907313 [**] [1:54827:1] "MALWARE-TOOLS dnscat dns tunneling detected" [**] [Classification: A Network Trojan was detected] [Priority: 1] {UDP} 192.168.1.3:57107 -> 192.168.2.2:53
+192.168.1.3:57107 -> 192.168.2.2:53
+UDP TTL:64 TOS:0x0 ID:28702 IpLen:20 DgmLen:71 DF
+Len: 43
+
+06/14-21:39:52.572251 [**] [1:54827:1] "MALWARE-TOOLS dnscat dns tunneling detected" [**] [Classification: A Network Trojan was detected] [Priority: 1] {UDP} 192.168.1.3:57107 -> 192.168.2.2:53
+192.168.1.3:57107 -> 192.168.2.2:53
+UDP TTL:64 TOS:0x0 ID:28711 IpLen:20 DgmLen:71 DF
+Len: 43
+
+06/14-21:39:52.948696 [**] [1:54827:1] "MALWARE-TOOLS dnscat dns tunneling detected" [**] [Classification: A Network Trojan was detected] [Priority: 1] {UDP} 192.168.1.3:57107 -> 192.168.2.2:53
+192.168.1.3:57107 -> 192.168.2.2:53
+UDP TTL:64 TOS:0x0 ID:28768 IpLen:20 DgmLen:71 DF
+Len: 43
+
+06/14-21:39:53.636401 [**] [1:54827:1] "MALWARE-TOOLS dnscat dns tunneling detected" [**] [Classification: A Network Trojan was detected] [Priority: 1] {UDP} 192.168.1.3:57107 -> 192.168.2.2:53
+192.168.1.3:57107 -> 192.168.2.2:53
+UDP TTL:64 TOS:0x0 ID:28797 IpLen:20 DgmLen:71 DF
+Len: 43
+
+06/14-21:39:54.027843 [**] [1:54827:1] "MALWARE-TOOLS dnscat dns tunneling detected" [**] [Classification: A Network Trojan was detected] [Priority: 1] {UDP} 192.168.1.3:57107 -> 192.168.2.2:53
+192.168.1.3:57107 -> 192.168.2.2:53
+UDP TTL:64 TOS:0x0 ID:28806 IpLen:20 DgmLen:71 DF
+Len: 43
+
+06/14-21:39:54.736801 [**] [1:54827:1] "MALWARE-TOOLS dnscat dns tunneling detected" [**] [Classification: A Network Trojan was detected] [Priority: 1] {UDP} 192.168.1.3:57107 -> 192.168.2.2:53
+192.168.1.3:57107 -> 192.168.2.2:53
+UDP TTL:64 TOS:0x0 ID:28874 IpLen:20 DgmLen:71 DF
+Len: 43
+
+06/14-21:39:55.035968 [**] [1:54827:1] "MALWARE-TOOLS dnscat dns tunneling detected" [**] [Classification: A Network Trojan was detected] [Priority: 1] {UDP} 192.168.1.3:57107 -> 192.168.2.2:53
+192.168.1.3:57107 -> 192.168.2.2:53
+UDP TTL:64 TOS:0x0 ID:28903 IpLen:20 DgmLen:71 DF
+Len: 43
+
+06/14-21:39:55.825394 [**] [1:54827:1] "MALWARE-TOOLS dnscat dns tunneling detected" [**] [Classification: A Network Trojan was detected] [Priority: 1] {UDP} 192.168.1.3:57107 -> 192.168.2.2:53
+192.168.1.3:57107 -> 192.168.2.2:53
+UDP TTL:64 TOS:0x0 ID:29029 IpLen:20 DgmLen:71 DF
+Len: 43
+
+06/14-21:39:56.113066 [**] [1:54827:1] "MALWARE-TOOLS dnscat dns tunneling detected" [**] [Classification: A Network Trojan was detected] [Priority: 1] {UDP} 192.168.1.3:57107 -> 192.168.2.2:53
+192.168.1.3:57107 -> 192.168.2.2:53
+UDP TTL:64 TOS:0x0 ID:29073 IpLen:20 DgmLen:71 DF
+Len: 43
+
+06/14-21:39:56.879911 [**] [1:54827:1] "MALWARE-TOOLS dnscat dns tunneling detected" [**] [Classification: A Network Trojan was detected] [Priority: 1] {UDP} 192.168.1.3:57107 -> 192.168.2.2:53
+192.168.1.3:57107 -> 192.168.2.2:53
+UDP TTL:64 TOS:0x0 ID:29127 IpLen:20 DgmLen:71 DF
+Len: 43
+
+06/14-21:39:57.134417 [**] [1:54827:1] "MALWARE-TOOLS dnscat dns tunneling detected" [**] [Classification: A Network Trojan was detected] [Priority: 1] {UDP} 192.168.1.3:57107 -> 192.168.2.2:53
+192.168.1.3:57107 -> 192.168.2.2:53
+UDP TTL:64 TOS:0x0 ID:29128 IpLen:20 DgmLen:71 DF
+Len: 43
+
+06/14-21:39:57.899295 [**] [1:54827:1] "MALWARE-TOOLS dnscat dns tunneling detected" [**] [Classification: A Network Trojan was detected] [Priority: 1] {UDP} 192.168.1.3:57107 -> 192.168.2.2:53
+192.168.1.3:57107 -> 192.168.2.2:53
+UDP TTL:64 TOS:0x0 ID:29195 IpLen:20 DgmLen:71 DF
+Len: 43
+
+06/14-21:39:58.156031 [**] [1:54827:1] "MALWARE-TOOLS dnscat dns tunneling detected" [**] [Classification: A Network Trojan was detected] [Priority: 1] {UDP} 192.168.1.3:57107 -> 192.168.2.2:53
+192.168.1.3:57107 -> 192.168.2.2:53
+UDP TTL:64 TOS:0x0 ID:29258 IpLen:20 DgmLen:71 DF
+Len: 43
+
+06/14-21:39:58.919076 [**] [1:54827:1] "MALWARE-TOOLS dnscat dns tunneling detected" [**] [Classification: A Network Trojan was detected] [Priority: 1] {UDP} 192.168.1.3:57107 -> 192.168.2.2:53
+192.168.1.3:57107 -> 192.168.2.2:53
+UDP TTL:64 TOS:0x0 ID:29411 IpLen:20 DgmLen:71 DF
+Len: 43
+
+06/14-21:39:59.175916 [**] [1:54827:1] "MALWARE-TOOLS dnscat dns tunneling detected" [**] [Classification: A Network Trojan was detected] [Priority: 1] {UDP} 192.168.1.3:57107 -> 192.168.2.2:53
+192.168.1.3:57107 -> 192.168.2.2:53
+UDP TTL:64 TOS:0x0 ID:29429 IpLen:20 DgmLen:71 DF
+Len: 43
+
+06/14-21:39:59.960091 [**] [1:54827:1] "MALWARE-TOOLS dnscat dns tunneling detected" [**] [Classification: A Network Trojan was detected] [Priority: 1] {UDP} 192.168.1.3:57107 -> 192.168.2.2:53
+192.168.1.3:57107 -> 192.168.2.2:53
+UDP TTL:64 TOS:0x0 ID:29462 IpLen:20 DgmLen:71 DF
+Len: 43
+
+06/14-21:40:00.215786 [**] [1:54827:1] "MALWARE-TOOLS dnscat dns tunneling detected" [**] [Classification: A Network Trojan was detected] [Priority: 1] {UDP} 192.168.1.3:57107 -> 192.168.2.2:53
+192.168.1.3:57107 -> 192.168.2.2:53
+UDP TTL:64 TOS:0x0 ID:29511 IpLen:20 DgmLen:71 DF
+Len: 43
+
+06/14-21:40:00.979297 [**] [1:54827:1] "MALWARE-TOOLS dnscat dns tunneling detected" [**] [Classification: A Network Trojan was detected] [Priority: 1] {UDP} 192.168.1.3:57107 -> 192.168.2.2:53
+192.168.1.3:57107 -> 192.168.2.2:53
+UDP TTL:64 TOS:0x0 ID:29611 IpLen:20 DgmLen:71 DF
+Len: 43
+
+06/14-21:40:01.234446 [**] [1:54827:1] "MALWARE-TOOLS dnscat dns tunneling detected" [**] [Classification: A Network Trojan was detected] [Priority: 1] {UDP} 192.168.1.3:57107 -> 192.168.2.2:53
+192.168.1.3:57107 -> 192.168.2.2:53
+UDP TTL:64 TOS:0x0 ID:29639 IpLen:20 DgmLen:71 DF
+Len: 43
+
+06/14-21:40:02.012462 [**] [1:54827:1] "MALWARE-TOOLS dnscat dns tunneling detected" [**] [Classification: A Network Trojan was detected] [Priority: 1] {UDP} 192.168.1.3:57107 -> 192.168.2.2:53
+192.168.1.3:57107 -> 192.168.2.2:53
+UDP TTL:64 TOS:0x0 ID:29811 IpLen:20 DgmLen:71 DF
+Len: 43
+
+06/14-21:40:02.269556 [**] [1:54827:1] "MALWARE-TOOLS dnscat dns tunneling detected" [**] [Classification: A Network Trojan was detected] [Priority: 1] {UDP} 192.168.1.3:57107 -> 192.168.2.2:53
+192.168.1.3:57107 -> 192.168.2.2:53
+UDP TTL:64 TOS:0x0 ID:29844 IpLen:20 DgmLen:71 DF
+Len: 43
+
+06/14-21:40:03.053083 [**] [1:54827:1] "MALWARE-TOOLS dnscat dns tunneling detected" [**] [Classification: A Network Trojan was detected] [Priority: 1] {UDP} 192.168.1.3:57107 -> 192.168.2.2:53
+192.168.1.3:57107 -> 192.168.2.2:53
+UDP TTL:64 TOS:0x0 ID:30037 IpLen:20 DgmLen:71 DF
+Len: 43
+
+06/14-21:40:03.307498 [**] [1:54827:1] "MALWARE-TOOLS dnscat dns tunneling detected" [**] [Classification: A Network Trojan was detected] [Priority: 1] {UDP} 192.168.1.3:57107 -> 192.168.2.2:53
+192.168.1.3:57107 -> 192.168.2.2:53
+UDP TTL:64 TOS:0x0 ID:30049 IpLen:20 DgmLen:71 DF
+Len: 43
+
+06/14-21:40:04.078279 [**] [1:54827:1] "MALWARE-TOOLS dnscat dns tunneling detected" [**] [Classification: A Network Trojan was detected] [Priority: 1] {UDP} 192.168.1.3:57107 -> 192.168.2.2:53
+192.168.1.3:57107 -> 192.168.2.2:53
+UDP TTL:64 TOS:0x0 ID:30139 IpLen:20 DgmLen:71 DF
+Len: 43
+
+06/14-21:40:04.357058 [**] [1:54827:1] "MALWARE-TOOLS dnscat dns tunneling detected" [**] [Classification: A Network Trojan was detected] [Priority: 1] {UDP} 192.168.1.3:57107 -> 192.168.2.2:53
+192.168.1.3:57107 -> 192.168.2.2:53
+UDP TTL:64 TOS:0x0 ID:30166 IpLen:20 DgmLen:71 DF
+Len: 43
+
+06/14-21:40:05.159000 [**] [1:54827:1] "MALWARE-TOOLS dnscat dns tunneling detected" [**] [Classification: A Network Trojan was detected] [Priority: 1] {UDP} 192.168.1.3:57107 -> 192.168.2.2:53
+192.168.1.3:57107 -> 192.168.2.2:53
+UDP TTL:64 TOS:0x0 ID:30247 IpLen:20 DgmLen:71 DF
+Len: 43
+
+06/14-21:40:05.425082 [**] [1:54827:1] "MALWARE-TOOLS dnscat dns tunneling detected" [**] [Classification: A Network Trojan was detected] [Priority: 1] {UDP} 192.168.1.3:57107 -> 192.168.2.2:53
+192.168.1.3:57107 -> 192.168.2.2:53
+UDP TTL:64 TOS:0x0 ID:30293 IpLen:20 DgmLen:71 DF
+Len: 43
+
+06/14-21:40:06.209866 [**] [1:54827:1] "MALWARE-TOOLS dnscat dns tunneling detected" [**] [Classification: A Network Trojan was detected] [Priority: 1] {UDP} 192.168.1.3:57107 -> 192.168.2.2:53
+192.168.1.3:57107 -> 192.168.2.2:53
+UDP TTL:64 TOS:0x0 ID:30393 IpLen:20 DgmLen:71 DF
+Len: 43
+
+06/14-21:40:06.467365 [**] [1:54827:1] "MALWARE-TOOLS dnscat dns tunneling detected" [**] [Classification: A Network Trojan was detected] [Priority: 1] {UDP} 192.168.1.3:57107 -> 192.168.2.2:53
+192.168.1.3:57107 -> 192.168.2.2:53
+UDP TTL:64 TOS:0x0 ID:30419 IpLen:20 DgmLen:71 DF
+Len: 43
+
+06/14-21:40:07.254948 [**] [1:54827:1] "MALWARE-TOOLS dnscat dns tunneling detected" [**] [Classification: A Network Trojan was detected] [Priority: 1] {UDP} 192.168.1.3:57107 -> 192.168.2.2:53
+192.168.1.3:57107 -> 192.168.2.2:53
+UDP TTL:64 TOS:0x0 ID:30493 IpLen:20 DgmLen:71 DF
+Len: 43
+
+06/14-21:40:07.510390 [**] [1:54827:1] "MALWARE-TOOLS dnscat dns tunneling detected" [**] [Classification: A Network Trojan was detected] [Priority: 1] {UDP} 192.168.1.3:57107 -> 192.168.2.2:53
+192.168.1.3:57107 -> 192.168.2.2:53
+UDP TTL:64 TOS:0x0 ID:30549 IpLen:20 DgmLen:71 DF
+Len: 43
+
+06/14-21:40:08.277860 [**] [1:54827:1] "MALWARE-TOOLS dnscat dns tunneling detected" [**] [Classification: A Network Trojan was detected] [Priority: 1] {UDP} 192.168.1.3:57107 -> 192.168.2.2:53
+192.168.1.3:57107 -> 192.168.2.2:53
+UDP TTL:64 TOS:0x0 ID:30617 IpLen:20 DgmLen:71 DF
+Len: 43
+
+06/14-21:40:08.542447 [**] [1:54827:1] "MALWARE-TOOLS dnscat dns tunneling detected" [**] [Classification: A Network Trojan was detected] [Priority: 1] {UDP} 192.168.1.3:57107 -> 192.168.2.2:53
+192.168.1.3:57107 -> 192.168.2.2:53
+UDP TTL:64 TOS:0x0 ID:30683 IpLen:20 DgmLen:71 DF
+Len: 43
+
+06/14-21:40:09.306707 [**] [1:54827:1] "MALWARE-TOOLS dnscat dns tunneling detected" [**] [Classification: A Network Trojan was detected] [Priority: 1] {UDP} 192.168.1.3:57107 -> 192.168.2.2:53
+192.168.1.3:57107 -> 192.168.2.2:53
+UDP TTL:64 TOS:0x0 ID:30710 IpLen:20 DgmLen:71 DF
+Len: 43
+
+06/14-21:40:09.563097 [**] [1:54827:1] "MALWARE-TOOLS dnscat dns tunneling detected" [**] [Classification: A Network Trojan was detected] [Priority: 1] {UDP} 192.168.1.3:57107 -> 192.168.2.2:53
+192.168.1.3:57107 -> 192.168.2.2:53
+UDP TTL:64 TOS:0x0 ID:30763 IpLen:20 DgmLen:71 DF
+Len: 43
+
+06/14-21:40:10.323533 [**] [1:54827:1] "MALWARE-TOOLS dnscat dns tunneling detected" [**] [Classification: A Network Trojan was detected] [Priority: 1] {UDP} 192.168.1.3:57107 -> 192.168.2.2:53
+192.168.1.3:57107 -> 192.168.2.2:53
+UDP TTL:64 TOS:0x0 ID:30936 IpLen:20 DgmLen:71 DF
+Len: 43
+
+06/14-21:40:10.579342 [**] [1:54827:1] "MALWARE-TOOLS dnscat dns tunneling detected" [**] [Classification: A Network Trojan was detected] [Priority: 1] {UDP} 192.168.1.3:57107 -> 192.168.2.2:53
+192.168.1.3:57107 -> 192.168.2.2:53
+UDP TTL:64 TOS:0x0 ID:30971 IpLen:20 DgmLen:71 DF
+Len: 43
+
+06/14-21:40:11.346457 [**] [1:54827:1] "MALWARE-TOOLS dnscat dns tunneling detected" [**] [Classification: A Network Trojan was detected] [Priority: 1] {UDP} 192.168.1.3:57107 -> 192.168.2.2:53
+192.168.1.3:57107 -> 192.168.2.2:53
+UDP TTL:64 TOS:0x0 ID:31081 IpLen:20 DgmLen:71 DF
+Len: 43
+
+06/14-21:40:11.603690 [**] [1:54827:1] "MALWARE-TOOLS dnscat dns tunneling detected" [**] [Classification: A Network Trojan was detected] [Priority: 1] {UDP} 192.168.1.3:57107 -> 192.168.2.2:53
+192.168.1.3:57107 -> 192.168.2.2:53
+UDP TTL:64 TOS:0x0 ID:31122 IpLen:20 DgmLen:71 DF
+Len: 43
+
+06/14-21:40:12.396230 [**] [1:54827:1] "MALWARE-TOOLS dnscat dns tunneling detected" [**] [Classification: A Network Trojan was detected] [Priority: 1] {UDP} 192.168.1.3:57107 -> 192.168.2.2:53
+192.168.1.3:57107 -> 192.168.2.2:53
+UDP TTL:64 TOS:0x0 ID:31309 IpLen:20 DgmLen:71 DF
+Len: 43
+
+06/14-21:40:12.653234 [**] [1:54827:1] "MALWARE-TOOLS dnscat dns tunneling detected" [**] [Classification: A Network Trojan was detected] [Priority: 1] {UDP} 192.168.1.3:57107 -> 192.168.2.2:53
+192.168.1.3:57107 -> 192.168.2.2:53
+UDP TTL:64 TOS:0x0 ID:31365 IpLen:20 DgmLen:71 DF
+Len: 43
+
+06/14-21:40:13.439976 [**] [1:54827:1] "MALWARE-TOOLS dnscat dns tunneling detected" [**] [Classification: A Network Trojan was detected] [Priority: 1] {UDP} 192.168.1.3:57107 -> 192.168.2.2:53
+192.168.1.3:57107 -> 192.168.2.2:53
+UDP TTL:64 TOS:0x0 ID:31531 IpLen:20 DgmLen:71 DF
+Len: 43
+
+06/14-21:40:13.696471 [**] [1:54827:1] "MALWARE-TOOLS dnscat dns tunneling detected" [**] [Classification: A Network Trojan was detected] [Priority: 1] {UDP} 192.168.1.3:57107 -> 192.168.2.2:53
+192.168.1.3:57107 -> 192.168.2.2:53
+UDP TTL:64 TOS:0x0 ID:31586 IpLen:20 DgmLen:71 DF
+Len: 43
+
+06/14-21:40:14.493160 [**] [1:54827:1] "MALWARE-TOOLS dnscat dns tunneling detected" [**] [Classification: A Network Trojan was detected] [Priority: 1] {UDP} 192.168.1.3:57107 -> 192.168.2.2:53
+192.168.1.3:57107 -> 192.168.2.2:53
+UDP TTL:64 TOS:0x0 ID:31691 IpLen:20 DgmLen:71 DF
+Len: 43
+
+06/14-21:40:14.749113 [**] [1:54827:1] "MALWARE-TOOLS dnscat dns tunneling detected" [**] [Classification: A Network Trojan was detected] [Priority: 1] {UDP} 192.168.1.3:57107 -> 192.168.2.2:53
+192.168.1.3:57107 -> 192.168.2.2:53
+UDP TTL:64 TOS:0x0 ID:31705 IpLen:20 DgmLen:71 DF
+Len: 43
+

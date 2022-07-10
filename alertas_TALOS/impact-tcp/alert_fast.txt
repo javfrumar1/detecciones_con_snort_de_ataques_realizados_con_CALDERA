@@ -1,0 +1,920 @@
+06/12-18:09:15.407599 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45106 -> 192.168.2.2:80
+192.168.1.3:45106 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0x99FCB53B  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.407599 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45106 -> 192.168.2.2:80
+192.168.1.3:45106 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0x99FCB53B  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.407803 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45046 -> 192.168.2.2:80
+192.168.1.3:45046 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xE221E0ED  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.407803 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45110 -> 192.168.2.2:80
+192.168.1.3:45110 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0x59FAA72B  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.408000 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45110 -> 192.168.2.2:80
+192.168.1.3:45110 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0x59FAA72B  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.408000 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45046 -> 192.168.2.2:80
+192.168.1.3:45046 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xE221E0ED  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.408228 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45100 -> 192.168.2.2:80
+192.168.1.3:45100 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xF7ED1FAC  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.408228 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45174 -> 192.168.2.2:80
+192.168.1.3:45174 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xBCD89E4F  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.408228 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45174 -> 192.168.2.2:80
+192.168.1.3:45174 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xBCD89E4F  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.408579 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45100 -> 192.168.2.2:80
+192.168.1.3:45100 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xF7ED1FAC  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.408580 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45090 -> 192.168.2.2:80
+192.168.1.3:45090 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xDA88F47D  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.408738 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45090 -> 192.168.2.2:80
+192.168.1.3:45090 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xDA88F47D  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.409107 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45088 -> 192.168.2.2:80
+192.168.1.3:45088 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xC4AD1C8A  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.409361 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45088 -> 192.168.2.2:80
+192.168.1.3:45088 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xC4AD1C8A  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.409362 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45042 -> 192.168.2.2:80
+192.168.1.3:45042 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0x74F20061  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.409516 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45042 -> 192.168.2.2:80
+192.168.1.3:45042 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0x74F20061  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.409516 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45044 -> 192.168.2.2:80
+192.168.1.3:45044 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0x7A33F4F9  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.409918 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45044 -> 192.168.2.2:80
+192.168.1.3:45044 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0x7A33F4F9  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.409919 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45112 -> 192.168.2.2:80
+192.168.1.3:45112 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0x559811A5  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.409919 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45112 -> 192.168.2.2:80
+192.168.1.3:45112 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0x559811A5  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.409919 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45240 -> 192.168.2.2:80
+192.168.1.3:45240 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xFE964DAE  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.410313 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45240 -> 192.168.2.2:80
+192.168.1.3:45240 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xFE964DAE  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.410313 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45238 -> 192.168.2.2:80
+192.168.1.3:45238 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xE1257AC3  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.410313 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45238 -> 192.168.2.2:80
+192.168.1.3:45238 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xE1257AC3  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.410587 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45182 -> 192.168.2.2:80
+192.168.1.3:45182 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0x6362C9C9  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.410587 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45236 -> 192.168.2.2:80
+192.168.1.3:45236 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xA2B6713  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.410588 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45236 -> 192.168.2.2:80
+192.168.1.3:45236 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xA2B6713  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.410910 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45182 -> 192.168.2.2:80
+192.168.1.3:45182 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0x6362C9C9  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.410910 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45184 -> 192.168.2.2:80
+192.168.1.3:45184 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xAE4741FD  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.410910 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45234 -> 192.168.2.2:80
+192.168.1.3:45234 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xDDB55BCC  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.411423 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45234 -> 192.168.2.2:80
+192.168.1.3:45234 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xDDB55BCC  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.411423 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45184 -> 192.168.2.2:80
+192.168.1.3:45184 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xAE4741FD  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.411423 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45232 -> 192.168.2.2:80
+192.168.1.3:45232 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0x43C158AC  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.411775 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45232 -> 192.168.2.2:80
+192.168.1.3:45232 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0x43C158AC  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.411775 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45186 -> 192.168.2.2:80
+192.168.1.3:45186 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xE01BF74C  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.411775 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45186 -> 192.168.2.2:80
+192.168.1.3:45186 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xE01BF74C  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.412128 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45230 -> 192.168.2.2:80
+192.168.1.3:45230 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xFCB8CA25  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.412128 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45230 -> 192.168.2.2:80
+192.168.1.3:45230 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xFCB8CA25  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.412128 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45188 -> 192.168.2.2:80
+192.168.1.3:45188 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0x65A8D868  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.412128 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45188 -> 192.168.2.2:80
+192.168.1.3:45188 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0x65A8D868  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.413108 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45226 -> 192.168.2.2:80
+192.168.1.3:45226 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0x4C2ADD4C  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.413108 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45226 -> 192.168.2.2:80
+192.168.1.3:45226 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0x4C2ADD4C  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.413108 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45190 -> 192.168.2.2:80
+192.168.1.3:45190 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0x611CEA93  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.413108 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45190 -> 192.168.2.2:80
+192.168.1.3:45190 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0x611CEA93  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.413108 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45224 -> 192.168.2.2:80
+192.168.1.3:45224 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xEDC7BEDB  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.413108 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45192 -> 192.168.2.2:80
+192.168.1.3:45192 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0x1EABBF2B  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.413108 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45192 -> 192.168.2.2:80
+192.168.1.3:45192 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0x1EABBF2B  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.413108 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45222 -> 192.168.2.2:80
+192.168.1.3:45222 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xB7CBED4B  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.413536 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45222 -> 192.168.2.2:80
+192.168.1.3:45222 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xB7CBED4B  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.413536 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45196 -> 192.168.2.2:80
+192.168.1.3:45196 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xDF39DF90  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.413536 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45196 -> 192.168.2.2:80
+192.168.1.3:45196 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xDF39DF90  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.413536 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45224 -> 192.168.2.2:80
+192.168.1.3:45224 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xEDC7BEDB  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.413536 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45244 -> 192.168.2.2:80
+192.168.1.3:45244 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0x8CBE86BE  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.413537 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45244 -> 192.168.2.2:80
+192.168.1.3:45244 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0x8CBE86BE  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.413537 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45276 -> 192.168.2.2:80
+192.168.1.3:45276 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xF8DD5D4A  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.413537 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45276 -> 192.168.2.2:80
+192.168.1.3:45276 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xF8DD5D4A  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.413930 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45300 -> 192.168.2.2:80
+192.168.1.3:45300 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0x2EB54E21  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.413930 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45300 -> 192.168.2.2:80
+192.168.1.3:45300 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0x2EB54E21  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.413930 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45254 -> 192.168.2.2:80
+192.168.1.3:45254 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xDAA72458  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.413930 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45254 -> 192.168.2.2:80
+192.168.1.3:45254 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xDAA72458  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.413930 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45302 -> 192.168.2.2:80
+192.168.1.3:45302 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xBC4B23B7  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.413930 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45250 -> 192.168.2.2:80
+192.168.1.3:45250 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xC9BC2660  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.413931 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45250 -> 192.168.2.2:80
+192.168.1.3:45250 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xC9BC2660  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.413931 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45302 -> 192.168.2.2:80
+192.168.1.3:45302 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xBC4B23B7  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.414097 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45218 -> 192.168.2.2:80
+192.168.1.3:45218 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0x7FE2715D  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.414448 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45218 -> 192.168.2.2:80
+192.168.1.3:45218 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0x7FE2715D  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.414448 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45216 -> 192.168.2.2:80
+192.168.1.3:45216 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0x1E7096F0  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.414448 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45304 -> 192.168.2.2:80
+192.168.1.3:45304 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xB726E408  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.414448 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45304 -> 192.168.2.2:80
+192.168.1.3:45304 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xB726E408  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.414448 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45216 -> 192.168.2.2:80
+192.168.1.3:45216 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0x1E7096F0  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.414448 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45306 -> 192.168.2.2:80
+192.168.1.3:45306 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xEA97733F  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.414448 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45306 -> 192.168.2.2:80
+192.168.1.3:45306 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xEA97733F  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.414448 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45214 -> 192.168.2.2:80
+192.168.1.3:45214 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0x3F9BFB3A  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.414710 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45214 -> 192.168.2.2:80
+192.168.1.3:45214 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0x3F9BFB3A  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.414710 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45308 -> 192.168.2.2:80
+192.168.1.3:45308 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xF11DAC92  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.414710 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45308 -> 192.168.2.2:80
+192.168.1.3:45308 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xF11DAC92  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.414710 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45210 -> 192.168.2.2:80
+192.168.1.3:45210 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xCA3D436C  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.414710 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45210 -> 192.168.2.2:80
+192.168.1.3:45210 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xCA3D436C  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.414710 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45310 -> 192.168.2.2:80
+192.168.1.3:45310 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0x9867A43C  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.414710 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45310 -> 192.168.2.2:80
+192.168.1.3:45310 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0x9867A43C  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.415138 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45312 -> 192.168.2.2:80
+192.168.1.3:45312 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0x289CB0E5  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.415138 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45314 -> 192.168.2.2:80
+192.168.1.3:45314 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0x3304FDA7  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.415138 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45314 -> 192.168.2.2:80
+192.168.1.3:45314 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0x3304FDA7  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.415138 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45208 -> 192.168.2.2:80
+192.168.1.3:45208 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0x652D26A0  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.415138 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45208 -> 192.168.2.2:80
+192.168.1.3:45208 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0x652D26A0  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.415138 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45312 -> 192.168.2.2:80
+192.168.1.3:45312 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0x289CB0E5  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.415442 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45252 -> 192.168.2.2:80
+192.168.1.3:45252 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xF2860197  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.415442 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45252 -> 192.168.2.2:80
+192.168.1.3:45252 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xF2860197  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.415442 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45316 -> 192.168.2.2:80
+192.168.1.3:45316 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0x625D00EE  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.415442 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45316 -> 192.168.2.2:80
+192.168.1.3:45316 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0x625D00EE  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.415442 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45256 -> 192.168.2.2:80
+192.168.1.3:45256 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xA1CE5CCB  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.415442 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45256 -> 192.168.2.2:80
+192.168.1.3:45256 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xA1CE5CCB  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.407599 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45106 -> 192.168.2.2:80
+192.168.1.3:45106 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0x99FCB53B  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.407599 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45106 -> 192.168.2.2:80
+192.168.1.3:45106 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0x99FCB53B  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.407803 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45046 -> 192.168.2.2:80
+192.168.1.3:45046 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xE221E0ED  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.407803 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45110 -> 192.168.2.2:80
+192.168.1.3:45110 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0x59FAA72B  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.408000 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45110 -> 192.168.2.2:80
+192.168.1.3:45110 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0x59FAA72B  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.408000 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45046 -> 192.168.2.2:80
+192.168.1.3:45046 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xE221E0ED  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.408228 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45100 -> 192.168.2.2:80
+192.168.1.3:45100 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xF7ED1FAC  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.408228 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45174 -> 192.168.2.2:80
+192.168.1.3:45174 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xBCD89E4F  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.408228 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45174 -> 192.168.2.2:80
+192.168.1.3:45174 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xBCD89E4F  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.408579 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45100 -> 192.168.2.2:80
+192.168.1.3:45100 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xF7ED1FAC  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.408580 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45090 -> 192.168.2.2:80
+192.168.1.3:45090 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xDA88F47D  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.408738 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45090 -> 192.168.2.2:80
+192.168.1.3:45090 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xDA88F47D  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.409107 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45088 -> 192.168.2.2:80
+192.168.1.3:45088 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xC4AD1C8A  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.409361 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45088 -> 192.168.2.2:80
+192.168.1.3:45088 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xC4AD1C8A  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.409362 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45042 -> 192.168.2.2:80
+192.168.1.3:45042 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0x74F20061  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.409516 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45042 -> 192.168.2.2:80
+192.168.1.3:45042 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0x74F20061  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.409516 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45044 -> 192.168.2.2:80
+192.168.1.3:45044 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0x7A33F4F9  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.409918 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45044 -> 192.168.2.2:80
+192.168.1.3:45044 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0x7A33F4F9  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.409919 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45112 -> 192.168.2.2:80
+192.168.1.3:45112 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0x559811A5  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.409919 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45112 -> 192.168.2.2:80
+192.168.1.3:45112 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0x559811A5  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.409919 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45240 -> 192.168.2.2:80
+192.168.1.3:45240 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xFE964DAE  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.410313 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45240 -> 192.168.2.2:80
+192.168.1.3:45240 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xFE964DAE  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.410313 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45238 -> 192.168.2.2:80
+192.168.1.3:45238 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xE1257AC3  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.410313 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45238 -> 192.168.2.2:80
+192.168.1.3:45238 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xE1257AC3  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.410587 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45182 -> 192.168.2.2:80
+192.168.1.3:45182 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0x6362C9C9  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.410587 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45236 -> 192.168.2.2:80
+192.168.1.3:45236 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xA2B6713  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.410588 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45236 -> 192.168.2.2:80
+192.168.1.3:45236 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xA2B6713  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.410910 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45182 -> 192.168.2.2:80
+192.168.1.3:45182 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0x6362C9C9  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.410910 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45184 -> 192.168.2.2:80
+192.168.1.3:45184 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xAE4741FD  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.410910 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45234 -> 192.168.2.2:80
+192.168.1.3:45234 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xDDB55BCC  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.411423 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45234 -> 192.168.2.2:80
+192.168.1.3:45234 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xDDB55BCC  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.411423 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45184 -> 192.168.2.2:80
+192.168.1.3:45184 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xAE4741FD  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.411423 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45232 -> 192.168.2.2:80
+192.168.1.3:45232 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0x43C158AC  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.411775 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45232 -> 192.168.2.2:80
+192.168.1.3:45232 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0x43C158AC  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.411775 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45186 -> 192.168.2.2:80
+192.168.1.3:45186 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xE01BF74C  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.411775 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45186 -> 192.168.2.2:80
+192.168.1.3:45186 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xE01BF74C  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.412128 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45230 -> 192.168.2.2:80
+192.168.1.3:45230 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xFCB8CA25  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.412128 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45230 -> 192.168.2.2:80
+192.168.1.3:45230 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xFCB8CA25  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.412128 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45188 -> 192.168.2.2:80
+192.168.1.3:45188 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0x65A8D868  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.412128 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45188 -> 192.168.2.2:80
+192.168.1.3:45188 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0x65A8D868  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.413108 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45226 -> 192.168.2.2:80
+192.168.1.3:45226 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0x4C2ADD4C  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.413108 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45226 -> 192.168.2.2:80
+192.168.1.3:45226 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0x4C2ADD4C  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.413108 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45190 -> 192.168.2.2:80
+192.168.1.3:45190 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0x611CEA93  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.413108 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45190 -> 192.168.2.2:80
+192.168.1.3:45190 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0x611CEA93  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.413108 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45224 -> 192.168.2.2:80
+192.168.1.3:45224 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xEDC7BEDB  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.413108 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45192 -> 192.168.2.2:80
+192.168.1.3:45192 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0x1EABBF2B  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.413108 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45192 -> 192.168.2.2:80
+192.168.1.3:45192 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0x1EABBF2B  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.413108 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45222 -> 192.168.2.2:80
+192.168.1.3:45222 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xB7CBED4B  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.413536 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45222 -> 192.168.2.2:80
+192.168.1.3:45222 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xB7CBED4B  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.413536 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45196 -> 192.168.2.2:80
+192.168.1.3:45196 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xDF39DF90  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.413536 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45196 -> 192.168.2.2:80
+192.168.1.3:45196 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xDF39DF90  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.413536 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45224 -> 192.168.2.2:80
+192.168.1.3:45224 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xEDC7BEDB  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.413536 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45244 -> 192.168.2.2:80
+192.168.1.3:45244 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0x8CBE86BE  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.413537 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45244 -> 192.168.2.2:80
+192.168.1.3:45244 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0x8CBE86BE  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.413537 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45276 -> 192.168.2.2:80
+192.168.1.3:45276 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xF8DD5D4A  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.413537 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45276 -> 192.168.2.2:80
+192.168.1.3:45276 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xF8DD5D4A  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.413930 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45300 -> 192.168.2.2:80
+192.168.1.3:45300 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0x2EB54E21  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.413930 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45300 -> 192.168.2.2:80
+192.168.1.3:45300 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0x2EB54E21  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.413930 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45254 -> 192.168.2.2:80
+192.168.1.3:45254 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xDAA72458  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.413930 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45254 -> 192.168.2.2:80
+192.168.1.3:45254 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xDAA72458  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.413930 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45302 -> 192.168.2.2:80
+192.168.1.3:45302 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xBC4B23B7  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.413930 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45250 -> 192.168.2.2:80
+192.168.1.3:45250 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xC9BC2660  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.413931 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45250 -> 192.168.2.2:80
+192.168.1.3:45250 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xC9BC2660  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.413931 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45302 -> 192.168.2.2:80
+192.168.1.3:45302 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xBC4B23B7  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.414097 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45218 -> 192.168.2.2:80
+192.168.1.3:45218 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0x7FE2715D  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.414448 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45218 -> 192.168.2.2:80
+192.168.1.3:45218 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0x7FE2715D  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.414448 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45216 -> 192.168.2.2:80
+192.168.1.3:45216 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0x1E7096F0  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.414448 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45304 -> 192.168.2.2:80
+192.168.1.3:45304 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xB726E408  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.414448 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45304 -> 192.168.2.2:80
+192.168.1.3:45304 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xB726E408  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.414448 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45216 -> 192.168.2.2:80
+192.168.1.3:45216 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0x1E7096F0  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.414448 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45306 -> 192.168.2.2:80
+192.168.1.3:45306 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xEA97733F  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.414448 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45306 -> 192.168.2.2:80
+192.168.1.3:45306 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xEA97733F  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.414448 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45214 -> 192.168.2.2:80
+192.168.1.3:45214 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0x3F9BFB3A  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.414710 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45214 -> 192.168.2.2:80
+192.168.1.3:45214 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0x3F9BFB3A  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.414710 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45308 -> 192.168.2.2:80
+192.168.1.3:45308 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xF11DAC92  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.414710 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45308 -> 192.168.2.2:80
+192.168.1.3:45308 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xF11DAC92  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.414710 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45210 -> 192.168.2.2:80
+192.168.1.3:45210 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xCA3D436C  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.414710 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45210 -> 192.168.2.2:80
+192.168.1.3:45210 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xCA3D436C  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.414710 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45310 -> 192.168.2.2:80
+192.168.1.3:45310 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0x9867A43C  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.414710 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45310 -> 192.168.2.2:80
+192.168.1.3:45310 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0x9867A43C  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.415138 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45312 -> 192.168.2.2:80
+192.168.1.3:45312 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0x289CB0E5  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.415138 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45314 -> 192.168.2.2:80
+192.168.1.3:45314 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0x3304FDA7  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.415138 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45314 -> 192.168.2.2:80
+192.168.1.3:45314 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0x3304FDA7  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.415138 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45208 -> 192.168.2.2:80
+192.168.1.3:45208 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0x652D26A0  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.415138 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45208 -> 192.168.2.2:80
+192.168.1.3:45208 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0x652D26A0  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.415138 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45312 -> 192.168.2.2:80
+192.168.1.3:45312 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0x289CB0E5  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.415442 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45252 -> 192.168.2.2:80
+192.168.1.3:45252 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xF2860197  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.415442 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45252 -> 192.168.2.2:80
+192.168.1.3:45252 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xF2860197  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.415442 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45316 -> 192.168.2.2:80
+192.168.1.3:45316 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0x625D00EE  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.415442 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45316 -> 192.168.2.2:80
+192.168.1.3:45316 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0x625D00EE  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.415442 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45256 -> 192.168.2.2:80
+192.168.1.3:45256 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xA1CE5CCB  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+06/12-18:09:15.415442 [**] [1:40063:5] "OS-LINUX Linux Kernel Challenge ACK provocation attempt" [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.3:45256 -> 192.168.2.2:80
+192.168.1.3:45256 -> 192.168.2.2:80
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xA1CE5CCB  Ack: 0x0  Win: 0x0  TcpLen: 20
+

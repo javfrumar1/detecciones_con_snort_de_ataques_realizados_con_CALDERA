@@ -1,0 +1,153 @@
+06/24-10:49:02.705972 [**] [1:384:8] "PROTOCOL-ICMP PING" [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.1.3 -> 192.168.2.2
+192.168.1.3 -> 192.168.2.2
+ICMP TTL:41 TOS:0x0 ID:39075 IpLen:20 DgmLen:28
+Type:8  Code:0  ID:37502   Seq:0  ECHO
+
+06/24-10:49:02.706466 [**] [1:36650:2] "PROTOCOL-ICMP Squid Pinger IPv6 denial of service attempt" [**] [Classification: Attempted Denial of Service] [Priority: 2] {ICMP} 192.168.1.3 -> 192.168.2.2
+192.168.1.3 -> 192.168.2.2
+ICMP TTL:45 TOS:0x0 ID:57925 IpLen:20 DgmLen:40
+Type:13  Code:0  ID: 41263  Seq: 0  TIMESTAMP REQUEST
+
+06/24-10:49:02.706466 [**] [1:453:8] "PROTOCOL-ICMP Timestamp Request" [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.1.3 -> 192.168.2.2
+192.168.1.3 -> 192.168.2.2
+ICMP TTL:45 TOS:0x0 ID:57925 IpLen:20 DgmLen:40
+Type:13  Code:0  ID: 41263  Seq: 0  TIMESTAMP REQUEST
+
+06/24-10:49:03.747931 [**] [1:1421:19] "PROTOCOL-SNMP AgentX/tcp request" [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.1.3:40171 -> 192.168.2.2:705
+192.168.1.3:40171 -> 192.168.2.2:705
+TCP TTL:52 TOS:0x0 ID:54627 IpLen:20 DgmLen:44
+******S* Seq: 0x4DD14B5F  Ack: 0x0  Win: 0x400  TcpLen: 24
+TCP Options (1) => MSS: 1460
+
+06/24-10:49:13.941777 [**] [1:1420:19] "PROTOCOL-SNMP trap tcp" [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.1.3:40171 -> 192.168.2.2:162
+192.168.1.3:40171 -> 192.168.2.2:162
+TCP TTL:47 TOS:0x0 ID:26848 IpLen:20 DgmLen:44
+******S* Seq: 0x4DD14B5F  Ack: 0x0  Win: 0x400  TcpLen: 24
+TCP Options (1) => MSS: 1460
+
+06/24-10:49:15.643561 [**] [1:1418:19] "PROTOCOL-SNMP request tcp" [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.1.3:40171 -> 192.168.2.2:161
+192.168.1.3:40171 -> 192.168.2.2:161
+TCP TTL:42 TOS:0x0 ID:9596 IpLen:20 DgmLen:44
+******S* Seq: 0x4DD14B5F  Ack: 0x0  Win: 0x400  TcpLen: 24
+TCP Options (1) => MSS: 1460
+
+06/24-10:49:29.947071 [**] [1:257:18] "PROTOCOL-DNS named version attempt" [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.1.3:41128 -> 192.168.2.2:53
+
+dns.stream_tcp[32]:
+- - - - - - - - - - - -  - - - - - - - - - - - -  - - - - - - - - -
+00 1E 00 06 01 00 00 01  00 00 00 00 00 00 07 76  ........ .......v
+65 72 73 69 6F 6E 04 62  69 6E 64 00 00 10 00 03  ersion.b ind.....
+- - - - - - - - - - - -  - - - - - - - - - - - -  - - - - - - - - -
+
+06/24-10:49:30.790770 [**] [1:598:23] "PROTOCOL-RPC portmap listing TCP 111" [**] [Classification: Decode of an RPC Query] [Priority: 2] {TCP} 192.168.1.3:727 -> 192.168.2.2:111
+
+snort.stream_tcp[44]:
+- - - - - - - - - - - -  - - - - - - - - - - - -  - - - - - - - - -
+80 00 00 28 41 B3 41 63  00 00 00 00 00 00 00 02  ...(A.Ac ........
+00 01 86 A0 00 00 00 04  00 00 00 04 00 00 00 00  ........ ........
+00 00 00 00 00 00 00 00  00 00 00 00              ........ ....
+- - - - - - - - - - - -  - - - - - - - - - - - -  - - - - - - - - -
+
+06/24-10:49:30.790771 [**] [1:50447:1] "POLICY-OTHER HTTP request by IPv4 address attempt" [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {TCP} 192.168.1.3:51072 -> 192.168.2.2:80
+
+http_inspect.stream_tcp[150]:
+- - - - - - - - - - - -  - - - - - - - - - - - -  - - - - - - - - -
+55 73 65 72 2D 41 67 65  6E 74 3A 20 4D 6F 7A 69  User-Age nt: Mozi
+6C 6C 61 2F 35 2E 30 20  28 63 6F 6D 70 61 74 69  lla/5.0  (compati
+62 6C 65 3B 20 4E 6D 61  70 20 53 63 72 69 70 74  ble; Nma p Script
+69 6E 67 20 45 6E 67 69  6E 65 3B 20 68 74 74 70  ing Engi ne; http
+73 3A 2F 2F 6E 6D 61 70  2E 6F 72 67 2F 62 6F 6F  s://nmap .org/boo
+6B 2F 6E 73 65 2E 68 74  6D 6C 29 0D 0A 43 6F 6E  k/nse.ht ml)..Con
+6E 65 63 74 69 6F 6E 3A  20 63 6C 6F 73 65 0D 0A  nection:  close..
+43 6F 6E 74 65 6E 74 2D  4C 65 6E 67 74 68 3A 20  Content- Length: 
+34 34 31 0D 0A 48 6F 73  74 3A 20 31 39 32 2E 31  441..Hos t: 192.1
+36 38 2E 32 2E 32                                 68.2.2
+- - - - - - - - - - - -  - - - - - - - - - - - -  - - - - - - - - -
+
+06/24-10:49:30.790771 [**] [1:50447:1] "POLICY-OTHER HTTP request by IPv4 address attempt" [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {TCP} 192.168.1.3:51072 -> 192.168.2.2:80
+
+http_inspect.stream_tcp[441]:
+- - - - - - - - - - - -  - - - - - - - - - - - -  - - - - - - - - -
+3C 73 6F 61 70 3A 45 6E  76 65 6C 6F 70 65 20 78  <soap:En velope x
+6D 6C 6E 73 3A 78 73 64  3D 22 68 74 74 70 3A 2F  mlns:xsd ="http:/
+2F 77 77 77 2E 77 33 2E  6F 72 67 2F 32 30 30 31  /www.w3. org/2001
+2F 58 4D 4C 53 63 68 65  6D 61 22 20 78 6D 6C 6E  /XMLSche ma" xmln
+73 3A 78 73 69 3D 22 68  74 74 70 3A 2F 2F 77 77  s:xsi="h ttp://ww
+77 2E 77 33 2E 6F 72 67  2F 32 30 30 31 2F 58 4D  w.w3.org /2001/XM
+4C 53 63 68 65 6D 61 2D  69 6E 73 74 61 6E 63 65  LSchema- instance
+22 20 78 6D 6C 6E 73 3A  73 6F 61 70 3D 22 68 74  " xmlns: soap="ht
+74 70 3A 2F 2F 73 63 68  65 6D 61 73 2E 78 6D 6C  tp://sch emas.xml
+73 6F 61 70 2E 6F 72 67  2F 73 6F 61 70 2F 65 6E  soap.org /soap/en
+76 65 6C 6F 70 65 2F 22  3E 3C 73 6F 61 70 3A 48  velope/" ><soap:H
+65 61 64 65 72 3E 3C 6F  70 65 72 61 74 69 6F 6E  eader><o peration
+49 44 3E 30 30 30 30 30  30 30 31 2D 30 30 30 30  ID>00000 001-0000
+30 30 30 31 3C 2F 6F 70  65 72 61 74 69 6F 6E 49  0001</op erationI
+44 3E 3C 2F 73 6F 61 70  3A 48 65 61 64 65 72 3E  D></soap :Header>
+3C 73 6F 61 70 3A 42 6F  64 79 3E 3C 52 65 74 72  <soap:Bo dy><Retr
+69 65 76 65 53 65 72 76  69 63 65 43 6F 6E 74 65  ieveServ iceConte
+6E 74 20 78 6D 6C 6E 73  3D 22 75 72 6E 3A 69 6E  nt xmlns ="urn:in
+74 65 72 6E 61 6C 76 69  6D 32 35 22 3E 3C 5F 74  ternalvi m25"><_t
+68 69 73 20 78 73 69 3A  74 79 70 65 3D 22 4D 61  his xsi: type="Ma
+6E 61 67 65 64 4F 62 6A  65 63 74 52 65 66 65 72  nagedObj ectRefer
+65 6E 63 65 22 20 74 79  70 65 3D 22 53 65 72 76  ence" ty pe="Serv
+69 63 65 49 6E 73 74 61  6E 63 65 22 3E 53 65 72  iceInsta nce">Ser
+76 69 63 65 49 6E 73 74  61 6E 63 65 3C 2F 5F 74  viceInst ance</_t
+68 69 73 3E 3C 2F 52 65  74 72 69 65 76 65 53 65  his></Re trieveSe
+72 76 69 63 65 43 6F 6E  74 65 6E 74 3E 3C 2F 73  rviceCon tent></s
+6F 61 70 3A 42 6F 64 79  3E 3C 2F 73 6F 61 70 3A  oap:Body ></soap:
+45 6E 76 65 6C 6F 70 65  3E                       Envelope >
+- - - - - - - - - - - -  - - - - - - - - - - - -  - - - - - - - - -
+
+06/24-10:49:30.790771 [**] [1:50447:1] "POLICY-OTHER HTTP request by IPv4 address attempt" [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {TCP} 192.168.1.3:51074 -> 192.168.2.2:80
+
+http_inspect.stream_tcp[129]:
+- - - - - - - - - - - -  - - - - - - - - - - - -  - - - - - - - - -
+55 73 65 72 2D 41 67 65  6E 74 3A 20 4D 6F 7A 69  User-Age nt: Mozi
+6C 6C 61 2F 35 2E 30 20  28 63 6F 6D 70 61 74 69  lla/5.0  (compati
+62 6C 65 3B 20 4E 6D 61  70 20 53 63 72 69 70 74  ble; Nma p Script
+69 6E 67 20 45 6E 67 69  6E 65 3B 20 68 74 74 70  ing Engi ne; http
+73 3A 2F 2F 6E 6D 61 70  2E 6F 72 67 2F 62 6F 6F  s://nmap .org/boo
+6B 2F 6E 73 65 2E 68 74  6D 6C 29 0D 0A 43 6F 6E  k/nse.ht ml)..Con
+6E 65 63 74 69 6F 6E 3A  20 63 6C 6F 73 65 0D 0A  nection:  close..
+48 6F 73 74 3A 20 31 39  32 2E 31 36 38 2E 32 2E  Host: 19 2.168.2.
+32                                                2
+- - - - - - - - - - - -  - - - - - - - - - - - -  - - - - - - - - -
+
+06/24-10:49:30.816937 [**] [1:50447:1] "POLICY-OTHER HTTP request by IPv4 address attempt" [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {TCP} 192.168.1.3:51078 -> 192.168.2.2:80
+
+http_inspect.stream_tcp[129]:
+- - - - - - - - - - - -  - - - - - - - - - - - -  - - - - - - - - -
+55 73 65 72 2D 41 67 65  6E 74 3A 20 4D 6F 7A 69  User-Age nt: Mozi
+6C 6C 61 2F 35 2E 30 20  28 63 6F 6D 70 61 74 69  lla/5.0  (compati
+62 6C 65 3B 20 4E 6D 61  70 20 53 63 72 69 70 74  ble; Nma p Script
+69 6E 67 20 45 6E 67 69  6E 65 3B 20 68 74 74 70  ing Engi ne; http
+73 3A 2F 2F 6E 6D 61 70  2E 6F 72 67 2F 62 6F 6F  s://nmap .org/boo
+6B 2F 6E 73 65 2E 68 74  6D 6C 29 0D 0A 43 6F 6E  k/nse.ht ml)..Con
+6E 65 63 74 69 6F 6E 3A  20 63 6C 6F 73 65 0D 0A  nection:  close..
+48 6F 73 74 3A 20 31 39  32 2E 31 36 38 2E 32 2E  Host: 19 2.168.2.
+32                                                2
+- - - - - - - - - - - -  - - - - - - - - - - - -  - - - - - - - - -
+
+06/24-10:49:30.820069 [**] [1:50447:1] "POLICY-OTHER HTTP request by IPv4 address attempt" [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {TCP} 192.168.1.3:51080 -> 192.168.2.2:80
+
+http_inspect.stream_tcp[129]:
+- - - - - - - - - - - -  - - - - - - - - - - - -  - - - - - - - - -
+55 73 65 72 2D 41 67 65  6E 74 3A 20 4D 6F 7A 69  User-Age nt: Mozi
+6C 6C 61 2F 35 2E 30 20  28 63 6F 6D 70 61 74 69  lla/5.0  (compati
+62 6C 65 3B 20 4E 6D 61  70 20 53 63 72 69 70 74  ble; Nma p Script
+69 6E 67 20 45 6E 67 69  6E 65 3B 20 68 74 74 70  ing Engi ne; http
+73 3A 2F 2F 6E 6D 61 70  2E 6F 72 67 2F 62 6F 6F  s://nmap .org/boo
+6B 2F 6E 73 65 2E 68 74  6D 6C 29 0D 0A 43 6F 6E  k/nse.ht ml)..Con
+6E 65 63 74 69 6F 6E 3A  20 63 6C 6F 73 65 0D 0A  nection:  close..
+48 6F 73 74 3A 20 31 39  32 2E 31 36 38 2E 32 2E  Host: 19 2.168.2.
+32                                                2
+- - - - - - - - - - - -  - - - - - - - - - - - -  - - - - - - - - -
+
+06/24-10:49:30.906308 [**] [1:50447:1] "POLICY-OTHER HTTP request by IPv4 address attempt" [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {TCP} 192.168.1.3:51086 -> 192.168.2.2:80
+
+http_inspect.stream_tcp[17]:
+- - - - - - - - - - - -  - - - - - - - - - - - -  - - - - - - - - -
+48 6F 73 74 3A 20 31 39  32 2E 31 36 38 2E 32 2E  Host: 19 2.168.2.
+32                                                2
+- - - - - - - - - - - -  - - - - - - - - - - - -  - - - - - - - - -
+

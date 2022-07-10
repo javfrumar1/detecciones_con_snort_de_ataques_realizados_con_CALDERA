@@ -1,0 +1,10 @@
+06/15-18:50:05.313428 [**] [1:254:16] "PROTOCOL-DNS SPOOF query response with TTL of 1 min. and no authority" [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 192.168.0.1:53 -> 192.168.1.3:38738
+192.168.0.1:53 -> 192.168.1.3:38738
+UDP TTL:62 TOS:0x0 ID:11533 IpLen:20 DgmLen:72 DF
+Len: 44
+
+06/15-18:51:00.481336 [**] [1:254:16] "PROTOCOL-DNS SPOOF query response with TTL of 1 min. and no authority" [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 192.168.0.1:53 -> 192.168.1.3:40643
+192.168.0.1:53 -> 192.168.1.3:40643
+UDP TTL:62 TOS:0x0 ID:14103 IpLen:20 DgmLen:97 DF
+Len: 69
+

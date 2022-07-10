@@ -1,0 +1,18 @@
+06/16-12:10:16.236610 [**] [1:255:24] "PROTOCOL-DNS dns zone transfer via TCP detected" [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.1.3:33937 -> 192.168.2.2:53
+
+dns.stream_tcp[38]:
+- - - - - - - - - - - -  - - - - - - - - - - - -  - - - - - - - - -
+00 24 16 86 00 00 00 01  00 00 00 00 00 00 06 6A  .$...... .......j
+61 76 69 65 72 07 65 78  61 6D 70 6C 65 03 63 6F  avier.ex ample.co
+6D 00 00 FC 00 01                                 m.....
+- - - - - - - - - - - -  - - - - - - - - - - - -  - - - - - - - - -
+
+06/16-12:10:16.236610 [**] [1:255:24] "PROTOCOL-DNS dns zone transfer via TCP detected" [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.1.3:33937 -> 192.168.2.2:53
+
+dns.stream_tcp[38]:
+- - - - - - - - - - - -  - - - - - - - - - - - -  - - - - - - - - -
+00 24 16 86 00 00 00 01  00 00 00 00 00 00 06 6A  .$...... .......j
+61 76 69 65 72 07 65 78  61 6D 70 6C 65 03 63 6F  avier.ex ample.co
+6D 00 00 FC 00 01                                 m.....
+- - - - - - - - - - - -  - - - - - - - - - - - -  - - - - - - - - -
+

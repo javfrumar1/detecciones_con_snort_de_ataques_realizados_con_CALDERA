@@ -1,0 +1,240 @@
+06/15-12:41:55.337562 [**] [1:29456:3] "PROTOCOL-ICMP Unusual PING detected" [**] [Classification: Information Leak] [Priority: 2] {ICMP} 192.168.1.3 -> 192.168.2.2
+192.168.1.3 -> 192.168.2.2
+ICMP TTL:64 TOS:0x0 ID:7306 IpLen:20 DgmLen:64
+Type:8  Code:0  ID:617   Seq:0  ECHO
+
+06/15-12:41:55.338167 [**] [1:31767:2] "SERVER-OTHER MRLG fastping echo reply memory corruption attempt" [**] [Classification: Misc Attack] [Priority: 2] {ICMP} 192.168.2.2 -> 192.168.1.3
+192.168.2.2 -> 192.168.1.3
+ICMP TTL:63 TOS:0x0 ID:1258 IpLen:20 DgmLen:64
+Type:0  Code:0  ID:617  Seq:0  ECHO REPLY
+
+06/15-12:41:55.338167 [**] [1:408:8] "PROTOCOL-ICMP Echo Reply" [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.2.2 -> 192.168.1.3
+192.168.2.2 -> 192.168.1.3
+ICMP TTL:63 TOS:0x0 ID:1258 IpLen:20 DgmLen:64
+Type:0  Code:0  ID:617  Seq:0  ECHO REPLY
+
+06/15-12:41:56.338147 [**] [1:29456:3] "PROTOCOL-ICMP Unusual PING detected" [**] [Classification: Information Leak] [Priority: 2] {ICMP} 192.168.1.3 -> 192.168.2.2
+192.168.1.3 -> 192.168.2.2
+ICMP TTL:64 TOS:0x0 ID:18475 IpLen:20 DgmLen:64
+Type:8  Code:0  ID:617   Seq:256  ECHO
+
+06/15-12:41:56.338784 [**] [1:31767:2] "SERVER-OTHER MRLG fastping echo reply memory corruption attempt" [**] [Classification: Misc Attack] [Priority: 2] {ICMP} 192.168.2.2 -> 192.168.1.3
+192.168.2.2 -> 192.168.1.3
+ICMP TTL:63 TOS:0x0 ID:1505 IpLen:20 DgmLen:64
+Type:0  Code:0  ID:617  Seq:256  ECHO REPLY
+
+06/15-12:41:56.338784 [**] [1:408:8] "PROTOCOL-ICMP Echo Reply" [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.2.2 -> 192.168.1.3
+192.168.2.2 -> 192.168.1.3
+ICMP TTL:63 TOS:0x0 ID:1505 IpLen:20 DgmLen:64
+Type:0  Code:0  ID:617  Seq:256  ECHO REPLY
+
+06/15-12:41:57.338486 [**] [1:29456:3] "PROTOCOL-ICMP Unusual PING detected" [**] [Classification: Information Leak] [Priority: 2] {ICMP} 192.168.1.3 -> 192.168.2.2
+192.168.1.3 -> 192.168.2.2
+ICMP TTL:64 TOS:0x0 ID:34744 IpLen:20 DgmLen:64
+Type:8  Code:0  ID:617   Seq:512  ECHO
+
+06/15-12:41:57.339115 [**] [1:31767:2] "SERVER-OTHER MRLG fastping echo reply memory corruption attempt" [**] [Classification: Misc Attack] [Priority: 2] {ICMP} 192.168.2.2 -> 192.168.1.3
+192.168.2.2 -> 192.168.1.3
+ICMP TTL:63 TOS:0x0 ID:1650 IpLen:20 DgmLen:64
+Type:0  Code:0  ID:617  Seq:512  ECHO REPLY
+
+06/15-12:41:57.339115 [**] [1:408:8] "PROTOCOL-ICMP Echo Reply" [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.2.2 -> 192.168.1.3
+192.168.2.2 -> 192.168.1.3
+ICMP TTL:63 TOS:0x0 ID:1650 IpLen:20 DgmLen:64
+Type:0  Code:0  ID:617  Seq:512  ECHO REPLY
+
+06/15-12:41:58.339107 [**] [1:29456:3] "PROTOCOL-ICMP Unusual PING detected" [**] [Classification: Information Leak] [Priority: 2] {ICMP} 192.168.1.3 -> 192.168.2.2
+192.168.1.3 -> 192.168.2.2
+ICMP TTL:64 TOS:0x0 ID:42941 IpLen:20 DgmLen:64
+Type:8  Code:0  ID:617   Seq:768  ECHO
+
+06/15-12:41:58.339744 [**] [1:31767:2] "SERVER-OTHER MRLG fastping echo reply memory corruption attempt" [**] [Classification: Misc Attack] [Priority: 2] {ICMP} 192.168.2.2 -> 192.168.1.3
+192.168.2.2 -> 192.168.1.3
+ICMP TTL:63 TOS:0x0 ID:1804 IpLen:20 DgmLen:64
+Type:0  Code:0  ID:617  Seq:768  ECHO REPLY
+
+06/15-12:41:58.339744 [**] [1:408:8] "PROTOCOL-ICMP Echo Reply" [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.2.2 -> 192.168.1.3
+192.168.2.2 -> 192.168.1.3
+ICMP TTL:63 TOS:0x0 ID:1804 IpLen:20 DgmLen:64
+Type:0  Code:0  ID:617  Seq:768  ECHO REPLY
+
+06/15-12:41:59.339610 [**] [1:29456:3] "PROTOCOL-ICMP Unusual PING detected" [**] [Classification: Information Leak] [Priority: 2] {ICMP} 192.168.1.3 -> 192.168.2.2
+192.168.1.3 -> 192.168.2.2
+ICMP TTL:64 TOS:0x0 ID:23133 IpLen:20 DgmLen:64
+Type:8  Code:0  ID:617   Seq:1024  ECHO
+
+06/15-12:41:59.340379 [**] [1:31767:2] "SERVER-OTHER MRLG fastping echo reply memory corruption attempt" [**] [Classification: Misc Attack] [Priority: 2] {ICMP} 192.168.2.2 -> 192.168.1.3
+192.168.2.2 -> 192.168.1.3
+ICMP TTL:63 TOS:0x0 ID:2047 IpLen:20 DgmLen:64
+Type:0  Code:0  ID:617  Seq:1024  ECHO REPLY
+
+06/15-12:41:59.340379 [**] [1:408:8] "PROTOCOL-ICMP Echo Reply" [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.2.2 -> 192.168.1.3
+192.168.2.2 -> 192.168.1.3
+ICMP TTL:63 TOS:0x0 ID:2047 IpLen:20 DgmLen:64
+Type:0  Code:0  ID:617  Seq:1024  ECHO REPLY
+
+06/15-12:42:00.339941 [**] [1:29456:3] "PROTOCOL-ICMP Unusual PING detected" [**] [Classification: Information Leak] [Priority: 2] {ICMP} 192.168.1.3 -> 192.168.2.2
+192.168.1.3 -> 192.168.2.2
+ICMP TTL:64 TOS:0x0 ID:4167 IpLen:20 DgmLen:64
+Type:8  Code:0  ID:617   Seq:1280  ECHO
+
+06/15-12:42:00.340618 [**] [1:31767:2] "SERVER-OTHER MRLG fastping echo reply memory corruption attempt" [**] [Classification: Misc Attack] [Priority: 2] {ICMP} 192.168.2.2 -> 192.168.1.3
+192.168.2.2 -> 192.168.1.3
+ICMP TTL:63 TOS:0x0 ID:2145 IpLen:20 DgmLen:64
+Type:0  Code:0  ID:617  Seq:1280  ECHO REPLY
+
+06/15-12:42:00.340618 [**] [1:408:8] "PROTOCOL-ICMP Echo Reply" [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.2.2 -> 192.168.1.3
+192.168.2.2 -> 192.168.1.3
+ICMP TTL:63 TOS:0x0 ID:2145 IpLen:20 DgmLen:64
+Type:0  Code:0  ID:617  Seq:1280  ECHO REPLY
+
+06/15-12:42:01.340245 [**] [1:29456:3] "PROTOCOL-ICMP Unusual PING detected" [**] [Classification: Information Leak] [Priority: 2] {ICMP} 192.168.1.3 -> 192.168.2.2
+192.168.1.3 -> 192.168.2.2
+ICMP TTL:64 TOS:0x0 ID:7798 IpLen:20 DgmLen:64
+Type:8  Code:0  ID:617   Seq:1536  ECHO
+
+06/15-12:42:01.341032 [**] [1:31767:2] "SERVER-OTHER MRLG fastping echo reply memory corruption attempt" [**] [Classification: Misc Attack] [Priority: 2] {ICMP} 192.168.2.2 -> 192.168.1.3
+192.168.2.2 -> 192.168.1.3
+ICMP TTL:63 TOS:0x0 ID:2156 IpLen:20 DgmLen:64
+Type:0  Code:0  ID:617  Seq:1536  ECHO REPLY
+
+06/15-12:42:01.341032 [**] [1:408:8] "PROTOCOL-ICMP Echo Reply" [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.2.2 -> 192.168.1.3
+192.168.2.2 -> 192.168.1.3
+ICMP TTL:63 TOS:0x0 ID:2156 IpLen:20 DgmLen:64
+Type:0  Code:0  ID:617  Seq:1536  ECHO REPLY
+
+06/15-12:42:02.340840 [**] [1:29456:3] "PROTOCOL-ICMP Unusual PING detected" [**] [Classification: Information Leak] [Priority: 2] {ICMP} 192.168.1.3 -> 192.168.2.2
+192.168.1.3 -> 192.168.2.2
+ICMP TTL:64 TOS:0x0 ID:57827 IpLen:20 DgmLen:64
+Type:8  Code:0  ID:617   Seq:1792  ECHO
+
+06/15-12:42:02.341375 [**] [1:31767:2] "SERVER-OTHER MRLG fastping echo reply memory corruption attempt" [**] [Classification: Misc Attack] [Priority: 2] {ICMP} 192.168.2.2 -> 192.168.1.3
+192.168.2.2 -> 192.168.1.3
+ICMP TTL:63 TOS:0x0 ID:2283 IpLen:20 DgmLen:64
+Type:0  Code:0  ID:617  Seq:1792  ECHO REPLY
+
+06/15-12:42:02.341375 [**] [1:408:8] "PROTOCOL-ICMP Echo Reply" [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.2.2 -> 192.168.1.3
+192.168.2.2 -> 192.168.1.3
+ICMP TTL:63 TOS:0x0 ID:2283 IpLen:20 DgmLen:64
+Type:0  Code:0  ID:617  Seq:1792  ECHO REPLY
+
+06/15-12:42:03.341355 [**] [1:29456:3] "PROTOCOL-ICMP Unusual PING detected" [**] [Classification: Information Leak] [Priority: 2] {ICMP} 192.168.1.3 -> 192.168.2.2
+192.168.1.3 -> 192.168.2.2
+ICMP TTL:64 TOS:0x0 ID:43537 IpLen:20 DgmLen:64
+Type:8  Code:0  ID:617   Seq:2048  ECHO
+
+06/15-12:42:03.341890 [**] [1:31767:2] "SERVER-OTHER MRLG fastping echo reply memory corruption attempt" [**] [Classification: Misc Attack] [Priority: 2] {ICMP} 192.168.2.2 -> 192.168.1.3
+192.168.2.2 -> 192.168.1.3
+ICMP TTL:63 TOS:0x0 ID:2287 IpLen:20 DgmLen:64
+Type:0  Code:0  ID:617  Seq:2048  ECHO REPLY
+
+06/15-12:42:03.341890 [**] [1:408:8] "PROTOCOL-ICMP Echo Reply" [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.2.2 -> 192.168.1.3
+192.168.2.2 -> 192.168.1.3
+ICMP TTL:63 TOS:0x0 ID:2287 IpLen:20 DgmLen:64
+Type:0  Code:0  ID:617  Seq:2048  ECHO REPLY
+
+06/15-12:42:04.342953 [**] [1:29456:3] "PROTOCOL-ICMP Unusual PING detected" [**] [Classification: Information Leak] [Priority: 2] {ICMP} 192.168.1.3 -> 192.168.2.2
+192.168.1.3 -> 192.168.2.2
+ICMP TTL:64 TOS:0x0 ID:21746 IpLen:20 DgmLen:64
+Type:8  Code:0  ID:617   Seq:2304  ECHO
+
+06/15-12:42:04.343602 [**] [1:31767:2] "SERVER-OTHER MRLG fastping echo reply memory corruption attempt" [**] [Classification: Misc Attack] [Priority: 2] {ICMP} 192.168.2.2 -> 192.168.1.3
+192.168.2.2 -> 192.168.1.3
+ICMP TTL:63 TOS:0x0 ID:2383 IpLen:20 DgmLen:64
+Type:0  Code:0  ID:617  Seq:2304  ECHO REPLY
+
+06/15-12:42:04.343602 [**] [1:408:8] "PROTOCOL-ICMP Echo Reply" [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.2.2 -> 192.168.1.3
+192.168.2.2 -> 192.168.1.3
+ICMP TTL:63 TOS:0x0 ID:2383 IpLen:20 DgmLen:64
+Type:0  Code:0  ID:617  Seq:2304  ECHO REPLY
+
+06/15-12:42:05.345574 [**] [1:29456:3] "PROTOCOL-ICMP Unusual PING detected" [**] [Classification: Information Leak] [Priority: 2] {ICMP} 192.168.1.3 -> 192.168.2.2
+192.168.1.3 -> 192.168.2.2
+ICMP TTL:64 TOS:0x0 ID:18206 IpLen:20 DgmLen:64
+Type:8  Code:0  ID:617   Seq:2560  ECHO
+
+06/15-12:42:05.346216 [**] [1:31767:2] "SERVER-OTHER MRLG fastping echo reply memory corruption attempt" [**] [Classification: Misc Attack] [Priority: 2] {ICMP} 192.168.2.2 -> 192.168.1.3
+192.168.2.2 -> 192.168.1.3
+ICMP TTL:63 TOS:0x0 ID:2410 IpLen:20 DgmLen:64
+Type:0  Code:0  ID:617  Seq:2560  ECHO REPLY
+
+06/15-12:42:05.346216 [**] [1:408:8] "PROTOCOL-ICMP Echo Reply" [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.2.2 -> 192.168.1.3
+192.168.2.2 -> 192.168.1.3
+ICMP TTL:63 TOS:0x0 ID:2410 IpLen:20 DgmLen:64
+Type:0  Code:0  ID:617  Seq:2560  ECHO REPLY
+
+06/15-12:42:06.346297 [**] [1:29456:3] "PROTOCOL-ICMP Unusual PING detected" [**] [Classification: Information Leak] [Priority: 2] {ICMP} 192.168.1.3 -> 192.168.2.2
+192.168.1.3 -> 192.168.2.2
+ICMP TTL:64 TOS:0x0 ID:12213 IpLen:20 DgmLen:64
+Type:8  Code:0  ID:617   Seq:2816  ECHO
+
+06/15-12:42:06.346985 [**] [1:31767:2] "SERVER-OTHER MRLG fastping echo reply memory corruption attempt" [**] [Classification: Misc Attack] [Priority: 2] {ICMP} 192.168.2.2 -> 192.168.1.3
+192.168.2.2 -> 192.168.1.3
+ICMP TTL:63 TOS:0x0 ID:2638 IpLen:20 DgmLen:64
+Type:0  Code:0  ID:617  Seq:2816  ECHO REPLY
+
+06/15-12:42:06.346985 [**] [1:408:8] "PROTOCOL-ICMP Echo Reply" [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.2.2 -> 192.168.1.3
+192.168.2.2 -> 192.168.1.3
+ICMP TTL:63 TOS:0x0 ID:2638 IpLen:20 DgmLen:64
+Type:0  Code:0  ID:617  Seq:2816  ECHO REPLY
+
+06/15-12:42:07.346640 [**] [1:29456:3] "PROTOCOL-ICMP Unusual PING detected" [**] [Classification: Information Leak] [Priority: 2] {ICMP} 192.168.1.3 -> 192.168.2.2
+192.168.1.3 -> 192.168.2.2
+ICMP TTL:64 TOS:0x0 ID:64127 IpLen:20 DgmLen:64
+Type:8  Code:0  ID:617   Seq:3072  ECHO
+
+06/15-12:42:07.347353 [**] [1:31767:2] "SERVER-OTHER MRLG fastping echo reply memory corruption attempt" [**] [Classification: Misc Attack] [Priority: 2] {ICMP} 192.168.2.2 -> 192.168.1.3
+192.168.2.2 -> 192.168.1.3
+ICMP TTL:63 TOS:0x0 ID:2820 IpLen:20 DgmLen:64
+Type:0  Code:0  ID:617  Seq:3072  ECHO REPLY
+
+06/15-12:42:07.347353 [**] [1:408:8] "PROTOCOL-ICMP Echo Reply" [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.2.2 -> 192.168.1.3
+192.168.2.2 -> 192.168.1.3
+ICMP TTL:63 TOS:0x0 ID:2820 IpLen:20 DgmLen:64
+Type:0  Code:0  ID:617  Seq:3072  ECHO REPLY
+
+06/15-12:42:08.347393 [**] [1:29456:3] "PROTOCOL-ICMP Unusual PING detected" [**] [Classification: Information Leak] [Priority: 2] {ICMP} 192.168.1.3 -> 192.168.2.2
+192.168.1.3 -> 192.168.2.2
+ICMP TTL:64 TOS:0x0 ID:61285 IpLen:20 DgmLen:64
+Type:8  Code:0  ID:617   Seq:3328  ECHO
+
+06/15-12:42:08.348626 [**] [1:31767:2] "SERVER-OTHER MRLG fastping echo reply memory corruption attempt" [**] [Classification: Misc Attack] [Priority: 2] {ICMP} 192.168.2.2 -> 192.168.1.3
+192.168.2.2 -> 192.168.1.3
+ICMP TTL:63 TOS:0x0 ID:2881 IpLen:20 DgmLen:64
+Type:0  Code:0  ID:617  Seq:3328  ECHO REPLY
+
+06/15-12:42:08.348626 [**] [1:408:8] "PROTOCOL-ICMP Echo Reply" [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.2.2 -> 192.168.1.3
+192.168.2.2 -> 192.168.1.3
+ICMP TTL:63 TOS:0x0 ID:2881 IpLen:20 DgmLen:64
+Type:0  Code:0  ID:617  Seq:3328  ECHO REPLY
+
+06/15-12:42:09.347395 [**] [1:29456:3] "PROTOCOL-ICMP Unusual PING detected" [**] [Classification: Information Leak] [Priority: 2] {ICMP} 192.168.1.3 -> 192.168.2.2
+192.168.1.3 -> 192.168.2.2
+ICMP TTL:64 TOS:0x0 ID:10901 IpLen:20 DgmLen:64
+Type:8  Code:0  ID:617   Seq:3584  ECHO
+
+06/15-12:42:09.348164 [**] [1:31767:2] "SERVER-OTHER MRLG fastping echo reply memory corruption attempt" [**] [Classification: Misc Attack] [Priority: 2] {ICMP} 192.168.2.2 -> 192.168.1.3
+192.168.2.2 -> 192.168.1.3
+ICMP TTL:63 TOS:0x0 ID:2945 IpLen:20 DgmLen:64
+Type:0  Code:0  ID:617  Seq:3584  ECHO REPLY
+
+06/15-12:42:09.348164 [**] [1:408:8] "PROTOCOL-ICMP Echo Reply" [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.2.2 -> 192.168.1.3
+192.168.2.2 -> 192.168.1.3
+ICMP TTL:63 TOS:0x0 ID:2945 IpLen:20 DgmLen:64
+Type:0  Code:0  ID:617  Seq:3584  ECHO REPLY
+
+06/15-12:42:10.351433 [**] [1:29456:3] "PROTOCOL-ICMP Unusual PING detected" [**] [Classification: Information Leak] [Priority: 2] {ICMP} 192.168.1.3 -> 192.168.2.2
+192.168.1.3 -> 192.168.2.2
+ICMP TTL:64 TOS:0x0 ID:2841 IpLen:20 DgmLen:64
+Type:8  Code:0  ID:617   Seq:3840  ECHO
+
+06/15-12:42:10.352624 [**] [1:31767:2] "SERVER-OTHER MRLG fastping echo reply memory corruption attempt" [**] [Classification: Misc Attack] [Priority: 2] {ICMP} 192.168.2.2 -> 192.168.1.3
+192.168.2.2 -> 192.168.1.3
+ICMP TTL:63 TOS:0x0 ID:2992 IpLen:20 DgmLen:64
+Type:0  Code:0  ID:617  Seq:3840  ECHO REPLY
+
+06/15-12:42:10.352624 [**] [1:408:8] "PROTOCOL-ICMP Echo Reply" [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.2.2 -> 192.168.1.3
+192.168.2.2 -> 192.168.1.3
+ICMP TTL:63 TOS:0x0 ID:2992 IpLen:20 DgmLen:64
+Type:0  Code:0  ID:617  Seq:3840  ECHO REPLY
+

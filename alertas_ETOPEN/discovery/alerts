@@ -1,0 +1,144 @@
+[**] [1:2010937:3] ET SCAN Suspicious inbound to mySQL port 3306 [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+06/12-12:59:27.279158 192.168.1.3:40490 -> 192.168.2.2:3306
+TCP TTL:53 TOS:0x0 ID:50916 IpLen:20 DgmLen:44
+******S* Seq: 0xAD464E15  Ack: 0x0  Win: 0x400  TcpLen: 24
+TCP Options (1) => MSS: 1460 
+[Xref => http://doc.emergingthreats.net/2010937]
+
+[**] [1:2010937:3] ET SCAN Suspicious inbound to mySQL port 3306 [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+06/12-12:59:27.279159 192.168.1.3:40490 -> 192.168.2.1:3306
+TCP TTL:42 TOS:0x0 ID:46551 IpLen:20 DgmLen:44
+******S* Seq: 0xAD464E15  Ack: 0x0  Win: 0x400  TcpLen: 24
+TCP Options (1) => MSS: 1460 
+[Xref => http://doc.emergingthreats.net/2010937]
+
+[**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+06/12-12:59:28.405341 192.168.1.3:40490 -> 192.168.2.1:1433
+TCP TTL:52 TOS:0x0 ID:9782 IpLen:20 DgmLen:44
+******S* Seq: 0xAD464E15  Ack: 0x0  Win: 0x400  TcpLen: 24
+TCP Options (1) => MSS: 1460 
+[Xref => http://doc.emergingthreats.net/2010935]
+
+[**] [1:2002911:5] ET SCAN Potential VNC Scan 5900-5920 [**]
+[Classification: Attempted Information Leak] [Priority: 2] 
+06/12-12:59:30.193415 192.168.1.3:40490 -> 192.168.2.1:5918
+TCP TTL:44 TOS:0x0 ID:36761 IpLen:20 DgmLen:44
+******S* Seq: 0xAD464E15  Ack: 0x0  Win: 0x400  TcpLen: 24
+TCP Options (1) => MSS: 1460 
+[Xref => http://doc.emergingthreats.net/2002911]
+
+[**] [1:2002910:5] ET SCAN Potential VNC Scan 5800-5820 [**]
+[Classification: Attempted Information Leak] [Priority: 2] 
+06/12-12:59:30.284599 192.168.1.3:40492 -> 192.168.2.2:5819
+TCP TTL:41 TOS:0x0 ID:58686 IpLen:20 DgmLen:44
+******S* Seq: 0xAD444E17  Ack: 0x0  Win: 0x400  TcpLen: 24
+TCP Options (1) => MSS: 1460 
+[Xref => http://doc.emergingthreats.net/2002910]
+
+[**] [1:2010936:3] ET SCAN Suspicious inbound to Oracle SQL port 1521 [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+06/12-12:59:34.111429 192.168.1.3:40490 -> 192.168.2.1:1521
+TCP TTL:38 TOS:0x0 ID:41749 IpLen:20 DgmLen:44
+******S* Seq: 0xAD464E15  Ack: 0x0  Win: 0x400  TcpLen: 24
+TCP Options (1) => MSS: 1460 
+[Xref => http://doc.emergingthreats.net/2010936]
+
+[**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+06/12-12:59:38.985454 192.168.1.3:40490 -> 192.168.2.2:1433
+TCP TTL:50 TOS:0x0 ID:51673 IpLen:20 DgmLen:44
+******S* Seq: 0xAD464E15  Ack: 0x0  Win: 0x400  TcpLen: 24
+TCP Options (1) => MSS: 1460 
+[Xref => http://doc.emergingthreats.net/2010935]
+
+[**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+06/12-12:59:39.082957 192.168.1.3:40492 -> 192.168.2.2:1433
+TCP TTL:48 TOS:0x0 ID:42015 IpLen:20 DgmLen:44
+******S* Seq: 0xAD444E17  Ack: 0x0  Win: 0x400  TcpLen: 24
+TCP Options (1) => MSS: 1460 
+[Xref => http://doc.emergingthreats.net/2010935]
+
+[**] [1:2010938:3] ET SCAN Suspicious inbound to mSQL port 4333 [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+06/12-12:59:40.896071 192.168.1.3:40490 -> 192.168.2.1:4333
+TCP TTL:44 TOS:0x0 ID:38907 IpLen:20 DgmLen:44
+******S* Seq: 0xAD464E15  Ack: 0x0  Win: 0x400  TcpLen: 24
+TCP Options (1) => MSS: 1460 
+[Xref => http://doc.emergingthreats.net/2010938]
+
+[**] [1:2010939:3] ET SCAN Suspicious inbound to PostgreSQL port 5432 [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+06/12-12:59:43.568469 192.168.1.3:40490 -> 192.168.2.1:5432
+TCP TTL:54 TOS:0x0 ID:60722 IpLen:20 DgmLen:44
+******S* Seq: 0xAD464E15  Ack: 0x0  Win: 0x400  TcpLen: 24
+TCP Options (1) => MSS: 1460 
+[Xref => http://doc.emergingthreats.net/2010939]
+
+[**] [1:2010936:3] ET SCAN Suspicious inbound to Oracle SQL port 1521 [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+06/12-13:00:13.153418 192.168.1.3:40490 -> 192.168.2.2:1521
+TCP TTL:47 TOS:0x0 ID:25800 IpLen:20 DgmLen:44
+******S* Seq: 0xAD464E15  Ack: 0x0  Win: 0x400  TcpLen: 24
+TCP Options (1) => MSS: 1460 
+[Xref => http://doc.emergingthreats.net/2010936]
+
+[**] [1:2010936:3] ET SCAN Suspicious inbound to Oracle SQL port 1521 [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+06/12-13:00:13.256387 192.168.1.3:40492 -> 192.168.2.2:1521
+TCP TTL:54 TOS:0x0 ID:11094 IpLen:20 DgmLen:44
+******S* Seq: 0xAD444E17  Ack: 0x0  Win: 0x400  TcpLen: 24
+TCP Options (1) => MSS: 1460 
+[Xref => http://doc.emergingthreats.net/2010936]
+
+[**] [1:2002910:5] ET SCAN Potential VNC Scan 5800-5820 [**]
+[Classification: Attempted Information Leak] [Priority: 2] 
+06/12-13:00:44.070366 192.168.1.3:40490 -> 192.168.2.2:5812
+TCP TTL:50 TOS:0x0 ID:13202 IpLen:20 DgmLen:44
+******S* Seq: 0xAD464E15  Ack: 0x0  Win: 0x400  TcpLen: 24
+TCP Options (1) => MSS: 1460 
+[Xref => http://doc.emergingthreats.net/2002910]
+
+[**] [1:2002911:5] ET SCAN Potential VNC Scan 5900-5920 [**]
+[Classification: Attempted Information Leak] [Priority: 2] 
+06/12-13:00:47.595849 192.168.1.3:40490 -> 192.168.2.2:5916
+TCP TTL:57 TOS:0x0 ID:45201 IpLen:20 DgmLen:44
+******S* Seq: 0xAD464E15  Ack: 0x0  Win: 0x400  TcpLen: 24
+TCP Options (1) => MSS: 1460 
+[Xref => http://doc.emergingthreats.net/2002911]
+
+[**] [1:2010938:3] ET SCAN Suspicious inbound to mSQL port 4333 [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+06/12-13:00:49.887085 192.168.1.3:40490 -> 192.168.2.2:4333
+TCP TTL:58 TOS:0x0 ID:56138 IpLen:20 DgmLen:44
+******S* Seq: 0xAD464E15  Ack: 0x0  Win: 0x400  TcpLen: 24
+TCP Options (1) => MSS: 1460 
+[Xref => http://doc.emergingthreats.net/2010938]
+
+[**] [1:2010938:3] ET SCAN Suspicious inbound to mSQL port 4333 [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+06/12-13:00:49.990890 192.168.1.3:40492 -> 192.168.2.2:4333
+TCP TTL:58 TOS:0x0 ID:27567 IpLen:20 DgmLen:44
+******S* Seq: 0xAD444E17  Ack: 0x0  Win: 0x400  TcpLen: 24
+TCP Options (1) => MSS: 1460 
+[Xref => http://doc.emergingthreats.net/2010938]
+
+[**] [1:2010939:3] ET SCAN Suspicious inbound to PostgreSQL port 5432 [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+06/12-13:01:04.762468 192.168.1.3:40490 -> 192.168.2.2:5432
+TCP TTL:37 TOS:0x0 ID:46763 IpLen:20 DgmLen:44
+******S* Seq: 0xAD464E15  Ack: 0x0  Win: 0x400  TcpLen: 24
+TCP Options (1) => MSS: 1460 
+[Xref => http://doc.emergingthreats.net/2010939]
+
+[**] [1:2010939:3] ET SCAN Suspicious inbound to PostgreSQL port 5432 [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+06/12-13:01:04.862641 192.168.1.3:40492 -> 192.168.2.2:5432
+TCP TTL:40 TOS:0x0 ID:55744 IpLen:20 DgmLen:44
+******S* Seq: 0xAD444E17  Ack: 0x0  Win: 0x400  TcpLen: 24
+TCP Options (1) => MSS: 1460 
+[Xref => http://doc.emergingthreats.net/2010939]
+
